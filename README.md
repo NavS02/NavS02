@@ -3,10 +3,6 @@
 
 - 🔭 I’m currently working on <a href="https://www.ambientinarratividigitali.it/"></a>**AND srl**
 
-- 🌱 I’m currently learning **VueJs and Directus**
-
-- 👯 I’m looking to collaborate on **some new project**
-
 - 👨‍💻 All of my projects are available at [https://github.com/NavS02/NavS02](https://github.com/NavS02/NavS02)
 
 - 📫 How to reach me **daniel.simon.gualde@gmail.com**
