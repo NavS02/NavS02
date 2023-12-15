@@ -1,7 +1,7 @@
 <h1 align="center">My name is Dani</h1>
 <h3 align="center">Cross-platform application developer</h3>
 
-- 🔭 I’m currently working on **AND s.r.l(Florence,Italy)**
+- 🔭 I’m currently working on <a href="https://www.ambientinarratividigitali.it/"></a>**AND srl**
 
 - 🌱 I’m currently learning **VueJs and Directus**
 
